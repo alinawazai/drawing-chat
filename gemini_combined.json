@@ -1,0 +1,2298 @@
+[
+    {
+        "Drawing_Type": "Elevation",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 입면도-2 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2012",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 배치도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2000",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 담장설치는 단지내부가보이는 투시형구조나 생울타리로 하고 지구단위계획 등에 따라 미설치 될 수 있음.\n2. 단지내 및 단지주변 계획고는 공사시 실측현황에 따라 변경될 수 있음.\n3. 소방차 주차공간 내에는 소방차의 구호 활동에 장애가 되는 식재 및 시설물등을 설치할 수 없으며, 바닥 표지토록 할 것.\n4. 조경, 옥외시설물 등의 형태, 개소, 위치는 실시공시 변경될 수 있음.\n5. 보행브릿지는 심의 및 실시계획인가시 변경될 수 있음.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Section_View",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산 상가-1 단면도-4 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2024",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 옥상 줄눈의 간격 등은 실시공시 변경될 수 있음.\n2. 옥상 줄눈 틈에 실란트 시공되지 않음.\n3. 지붕의 재료, 형태, 구조는 실시공시 변경될 수 있음.\n4. 지붕층 난간의 형태와 설치 위치는 안전성 및 입면 디자인을 고려하여 변경 가능함.\n5. 단열재의 종류는 단열성능관계내역 참조.\n6. 도면상 표기원 옥상 및 지하의 무근콘크리트 두께는 평균 두께를 말하며 본시공시 구배를 고려하여 두께의 증감이 있을 수 있음.\n7. 외벽 단열 부분과 환기덕트 연결되는 부위는 기밀하게 마감한다.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Elevation",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 입면도-1 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2011",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 지붕 평면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2009",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 층별 LEVEL 기준 - 지붕층 LEVEL - SL±0 = FL±0 = EL+38.70\n2. 옥상 쭁눌의 간격 등은 실시공시 변경될 수 있음.\n3. 옥상 쭁눌 등에는 실란드 시공되지 않음.\n4. 지붕의 재료, 형태, 구조는 실시공시 변경될 수 있음.\n5. 지붕층 난간의 형태와 설치 위치는 안전성과 입면 디자인을 고려하여 변경 가능함.\n6. 단열재의 종류는 단열성능관계내역 참조.\n7. 도면상 표기 된 옥상 및 지하의 무근콘크리트 두께는 평균 두께를 말하며 본시공시 구배를 고려하여 두께의 증감이 있을 수 있음.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Section_View",
+        "Purpose_of_Building": "Mixed-use",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산 상가-1 단면도-1 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2021",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 옥상 줄눈의 간격 틈은 실시공시 변경될 수 있음.\n2. 옥상 줄는 틈에 실란트 시공되지 않음.\n3. 지붕의 재료, 형태, 구조는 실시공시 변경될 수 있음.\n4. 지붕층 난간의 형태와 설치 위치는 안전성과 입면 디자인을 고려하여 변경 가능함.\n5. 단열재의 종류는 단열성능 관계내역 참조.\n6. 도면상 표기된 옥상 및 지하의 무근콘크리트 두께는 평균 두께를 말하며 분시공시 구배를 고려하여 두께의 증감이 있을 수 있음.\n7. 외벽 단열 부분과 환기덕트가 연결되는 부위는 기밀하게 마감한다.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Section_View",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산 상가-1 단면도-5 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2025",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 옥상 출눈의 간격 등은 실시공시 변경될 수 있음.\n2. 옥상 출는 틈에 실란드 시공되지 않음.\n3. 지붕의 재료, 형태, 구조는 실시공시 변경될 수 있음.\n4. 지붕층 난간의 형태와 설치 위치는 안전성 및 입면 디자인을 고려하여 변경 가능함.\n5. 단열재의 종류는 단열성능관계내역 참조.\n6. 도면상 표기된 옥상 및 지하의 무근콘크리트 두께는 평균 두께를 말하며 본시공시 구배를 고려하여 두께의 증감이 있을 수 있음.\n7. 외벽 단열 부분과 환기덕트가 연결되는 부위는 기밀하게 마감한다.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 지하3층 평면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2001",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 층별 LEVEL 기준\n- 지하3층 LEVEL\n- SL-2,100 = EL+5.70\n- SL-3,100 = EL+4.70\n2. 옥상 줄눈의 간격 등은 실시공시 변경될 수 있음.\n3. 옥상 줄눈 틈에 실란트 시공되지 않음.\n4. 지붕의 재료, 형태, 구조는 실시공시 변경될 수 있음.\n5. 지붕 늑대 난간의 형태와 위치는 안전성과 입면 디자인을 고려하여 변경 가능함.\n6. 단열재의 종류는 단열성능 내역 참조.\n7. 도면상 표기된 옥상 및 지하의 무근콘크리트 두께는 평균 두께를 말하며 본시공시 구배를 고려하여 두께의 증감이 있을 수 있음.\n8. 접수정의 재질 및 위치는 현장여건에 따라 설비, 구조 등 기타분야 검토 후 변경될 수 있으며, 사용승인 이전 설계 변경 할 것.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Section_View",
+        "Purpose_of_Building": "Mixed-use",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산 상가-1 단면도-2 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2022",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 옥상 줄눈의 간격 등은 실시공시 변경될 수 있음.\n2. 옥상 줄눈 틈에 실란트 시공되지 않음.\n3. 지붕의 재료, 형태, 구조는 실시공시 변경될 수 있음.\n4. 지붕층 난간의 형태와 설치 위치는 안전성 및 입면 디자인을 고려하여 변경 가능함.\n5. 단열재의 종류는 단열성능 관계내역 참조.\n6. 도면상 표기된 옥상 및 지하의 무근콘크리트 두께는 평균 두께를 말하며 본시공시 구배를 고려하여 두께의 증감이 있을 수 있음.\n7. 외벽 단열 부분과 환기덕트 연결되는 부위는 기밀하게 마감한다.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Section_View",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산 상가-1 단면도-6 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2026",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 옥상 줄눈의 간격 등은 실시공시 변경될 수 있음.\n2. 옥상 줄눈 홈에 실란트 시공되지 않음.\n3. 지붕의 재료, 형태, 구조는 실시공시 변경될 수 있음.\n4. 지붕층 난간의 형태와 설치 위치는 안전성과 입면 디자인을 고려하여 변경 가능함.\n5. 단열재의 종류는 단열성능 관계내역 참조.\n6. 도면상 표기된 옥상 및 지하외 무근콘크리트 두께는 평균 두께를 말하며 본시공시 구배를 고려하여 두께의 증감이 있을 수 있음.\n7. 외벽 단열 부분과 환기덕트 연결되는 부위는 기밀하게 마감한다.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Section_View",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산 상가-1 단면도-3 (근린 생활시설 -3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2023",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 옥상 줄눈의 간격 등은 실시공시 변경될 수 있음.\n2. 옥상 줄눈는 몸에 실란드 시공되지 않음.\n3. 지붕의 재료, 형태, 구조는 실시공시 변경될 수 있음.\n4. 지붕층 난간의 형태와 설치 위치는 안전성과 입면 디자인을 고려하여 변경 가능함.\n5. 단열재의 종류는 단열성능관계내역 참조.\n6. 도면상 표기원 옥상 및 지하의 무근콘크리트 두께는 평균 두께를 말하며 본시공시 구배를 고려하여 두께의 증감이 있을 수 있음.\n7. 외벽 단열 부분과 환기덕트가 연결되는 부위는 기밀하게 마감한다.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "지하3층 코아 평면상세도",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2002",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/50, A3 : 1/100",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산 상가-1 코아 평면상세도-2 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2032",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/50, A3 : 1/100",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Mixed-use",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산 상가-1 코아 평면상세도-2 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2033",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/50, A3 : 1/100",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Section_View",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산 상가-1 ELEV.#1 단면상세도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2034",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/50\nA3 : 1/100",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Section_View",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 주차경사로 단면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2053",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 주차경사로 평면도-2 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": [
+                "Parking"
+            ]
+        },
+        "Details": {
+            "Drawing_Number": "A51-2052",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 층별 LEVEL 기준 - 1층 LEVEL SL±0 = FL±0 = EL+21.00(GL±0) 2. 단열재의 종류는 단열성능관계내역 참조. 3. 도면상 표기된 옥상 및 지하의 무근콘크리트 두께는 평균 두께를 말하며 본시공시 구매를 고려하여 두께의 증감이 있을 수 있음.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 주차경사로 평면도-1 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": [
+                "parking"
+            ]
+        },
+        "Details": {
+            "Drawing_Number": "A51-2051",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 층별 LEVEL 기준\n- 지하3층 LEVEL\nSL±0 = FL±0 = EL+7.80\n- 지하2층 LEVEL\nSL±0 = FL±0 = EL+11.60\n- 지하1층 LEVEL\nSL±0 = FL±0 = EL+15.50\n2. 단열재의 종류는 단열성능관계내역 참조.\n3. 도면상 표기된 옥상 및 지하의 무근콘크리트 두께는 평균 두께를 말하며 본시공시 구배를 고려하여 두께의 증감이 있을 수 있음.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Section_View",
+        "Purpose_of_Building": "Mixed-use",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산 상가-1 코아 단면상세도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2035",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/50, A3 : 1/100",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Detail_View",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "D.A 단면상세도-3, 4",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "7",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 층별 LEVEL 기준\n- 지하3층(SL-2100) LEVEL\nSL±0 = FL±0 = EL+5.70\n- 지하3층 LEVEL\nSL±0 = FL±0 = EL+7.80\n- 지하2층 LEVEL\nSL±0 = FL±0 = EL+11.60\n- 지하1층 LEVEL\nSL±0 = FL±0 = EL+15.50\n- 1층 LEVEL\nSL±0 = FL±0 = EL+21.00(GL±0)\n2. 단열재의 종류는 단열성능관계내역 참조.\n3. 도면상 표기된 목살 및 지하외 무근콘크리트 두께는 평균 두께를 말하며 분시공시 구배를 고려하여 두께의 증감이 있을 수 있음.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Detail_View",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 외부계단 평,단면상세도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [
+                "hallways",
+                "staircases"
+            ],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2041",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/50, A3 : 1/100",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [
+                {
+                    "Location": "N/A",
+                    "Purpose": "N/A"
+                },
+                {
+                    "Location": "N/A",
+                    "Purpose": "N/A"
+                }
+            ],
+            "Elevator_Details": [
+                {
+                    "Location": "N/A",
+                    "Purpose": "N/A"
+                },
+                {
+                    "Location": "N/A",
+                    "Purpose": "N/A"
+                }
+            ],
+            "Hallways": [
+                {
+                    "Location": "N/A",
+                    "Approx_Area": "N/A"
+                }
+            ],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 층별 LEVEL 기준\n- 지하1층 LEVEL\n SL±0 = FL±0 = EL+15.50\n- 1층 LEVEL\n SL±0 = FL±0 = EL+21.00(GL±0)\n2. 단열재의 종류는 단열성능관계내역 참조.\n3. 도면상 표기된 옥상 및 지하의 무근콘크리트 두께는 평균 두께를 말하며 본공시 구배를 고려하여 두께의 증감이 있을 수 있음.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Mixed",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "Mixed Drawing",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "N/A",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/60, A3 : 1/120",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Mixed",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "N/A",
+        "Drawing_Title": "N/A",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "N/A",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/60, A3 : 1/120",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Mixed",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "N/A",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "N/A",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/60, A3 : 1/120",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Unknown",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "N/A",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "N/A",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/60, A3 : 1/120",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 지하3층 평면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2002",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Mixed",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "N/A",
+        "Drawing_Title": "N/A",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "N/A",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/60, A3 : 1/120",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 지하3층 창호 부호 평면도 (SL-2,100)(근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2091",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 지하3층 창호 부호 평면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2092",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 지하2층 창호 부호 평면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2093",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 지하2층 평면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2003",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "층별 LEVEL 기준 - 지하2층 LEVEL SL±0 = FL±0 = EL+11.60 옥상 줄눈의 간격 등은 실시공시 변경될 수 있음. 옥상 줄눈 틈에 실란트 시공되지 않음. 지붕의 재료, 형태, 구조는 실시공시 변경될 수 있음. 지붕 툇마루 난간의 형태와 설치 위치는 안전성과 입면 디자인을 고려하여 변경 가능함. 단열재의 종류는 단열성능관계내역 참조. 도면상 표기된 옥상 및 지하의 무근콘크리트 두께는 평균 두께를 말하며 본시공시 구매를 고려하여 두께의 증감이 있을 수 있음. 지하주차장 참조. 장비반입구 덮개는 국토교통부고시 건축구조기준 지붕부분 기본등분포활하중 최소 5kN/m2 이상을 만족하는 구조로 시공할 것.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 3층 창호 부호 평면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2097",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Elevation",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "N/A",
+        "Drawing_Title": "N/A",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "N/A",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "N/A",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Elevation",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 창호입면도-5 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2105",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/60, A3 : 1/120",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Elevation",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 창호입면도-4 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2104",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/60, A3 : 1/120",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 15,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Elevation",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 창호입면도-6 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2106",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/50, A3 : 1/100",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 지하1층 창호 부호 평면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": [
+                "화장실(여)",
+                "화장실(남)"
+            ]
+        },
+        "Details": {
+            "Drawing_Number": "A51-2094",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 1층 창호 부호 평면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2095",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Mixed-use",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 2층 창호 부호 평면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2096",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 4층 창호 부호 평면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2098",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Elevation",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "N/A",
+        "Drawing_Title": "N/A",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "N/A",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "N/A",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 39,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Elevation",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 창호입면도-7 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2107",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/50, A3 : 1/100",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Elevation",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 창호입면도-8 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2108",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/50, A3 : 1/100",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Elevation",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 창호입면도-2 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "N/A",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "N/A",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Elevation",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "N/A",
+        "Drawing_Title": "N/A",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "N/A",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "N/A",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 8,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [
+                {
+                    "Unit_Number": "N/A",
+                    "Unit_Area": "N/A",
+                    "Bedrooms": 0,
+                    "Bathrooms": 0,
+                    "Has_Living_Room": false,
+                    "Has_Kitchen": false,
+                    "Has_Balcony": false,
+                    "Special_Features": []
+                },
+                {
+                    "Unit_Number": "N/A",
+                    "Unit_Area": "N/A",
+                    "Bedrooms": 0,
+                    "Bathrooms": 0,
+                    "Has_Living_Room": false,
+                    "Has_Kitchen": false,
+                    "Has_Balcony": false,
+                    "Special_Features": []
+                },
+                {
+                    "Unit_Number": "N/A",
+                    "Unit_Area": "N/A",
+                    "Bedrooms": 0,
+                    "Bathrooms": 0,
+                    "Has_Living_Room": false,
+                    "Has_Kitchen": false,
+                    "Has_Balcony": false,
+                    "Special_Features": []
+                },
+                {
+                    "Unit_Number": "N/A",
+                    "Unit_Area": "N/A",
+                    "Bedrooms": 0,
+                    "Bathrooms": 0,
+                    "Has_Living_Room": false,
+                    "Has_Kitchen": false,
+                    "Has_Balcony": false,
+                    "Special_Features": []
+                },
+                {
+                    "Unit_Number": "N/A",
+                    "Unit_Area": "N/A",
+                    "Bedrooms": 0,
+                    "Bathrooms": 0,
+                    "Has_Living_Room": false,
+                    "Has_Kitchen": false,
+                    "Has_Balcony": false,
+                    "Special_Features": []
+                },
+                {
+                    "Unit_Number": "N/A",
+                    "Unit_Area": "N/A",
+                    "Bedrooms": 0,
+                    "Bathrooms": 0,
+                    "Has_Living_Room": false,
+                    "Has_Kitchen": false,
+                    "Has_Balcony": false,
+                    "Special_Features": []
+                },
+                {
+                    "Unit_Number": "N/A",
+                    "Unit_Area": "N/A",
+                    "Bedrooms": 0,
+                    "Bathrooms": 0,
+                    "Has_Living_Room": false,
+                    "Has_Kitchen": false,
+                    "Has_Balcony": false,
+                    "Special_Features": []
+                },
+                {
+                    "Unit_Number": "N/A",
+                    "Unit_Area": "N/A",
+                    "Bedrooms": 0,
+                    "Bathrooms": 0,
+                    "Has_Living_Room": false,
+                    "Has_Kitchen": false,
+                    "Has_Balcony": false,
+                    "Special_Features": []
+                }
+            ],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 지하1층 평면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2004",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 층별 LEVEL 기준\n- 지하1층 LEVEL\n- SL±0 = FL±0 = EL+15.50\n2. 옥상 춤눈의 간격은 실시공시 변경될 수 있음.\n3. 옥상 춤는 픔에 실린드 시공되지 않음.\n4. 지붕의 재료, 형태, 구조는 실시공시 변경될 수 있음.\n5. 지붕층 난간의 형태와 설치 위치는 안전성과 엽면 디자인을 고려하여 변경 가능함.\n6. 단열재의 종류는 단열성능관계내역 참조.\n7. 도면상 표기된 옥상 및 지하의 무근콘크리트 두께는 평균 두께를 말하며 본시공 구배를 고려하여 두께의 증감이 있을 수 있음.\n8.   : 지하주차장 참조.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Elevation",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "N/A",
+        "Drawing_Title": "N/A",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "N/A",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "N/A",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Unknown",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "N/A",
+        "Drawing_Title": "N/A",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "N/A",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "N/A",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Detail_View",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 창호상세도-4 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2124",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/3, A3 : 1/6",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 화장실 상세 및 전개도-1 (판매 및 근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": [
+                "bathrooms"
+            ]
+        },
+        "Details": {
+            "Drawing_Number": "A51-2211",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/50, A3 : 1/100",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Unknown",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "N/A",
+        "Drawing_Title": "N/A",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "N/A",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "N/A",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Unknown",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "N/A",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "N/A",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "N/A",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Unknown",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "N/A",
+        "Drawing_Title": "N/A",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "N/A",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "N/A",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "N/A",
+        "Drawing_Title": "화장실 평면상세도(지상1층)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": [
+                "bathrooms"
+            ]
+        },
+        "Details": {
+            "Drawing_Number": "1",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/50, A3 : 1/100",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "화장실 평면상세도(지상2층~지상3층)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": [
+                "bathrooms"
+            ]
+        },
+        "Details": {
+            "Drawing_Number": "1",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/50, A3 : 1/100",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Detail_View",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 창호상세도-1 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2121",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/3, A3 : 1/6",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Section_View",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 창호상세도-2 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2122",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/3, A3 : 1/6",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Unknown",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "N/A",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "N/A",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "N/A",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "| 층별 | 서더부분호 | 실명 | 형태 | 재질 | 크기 폭(W) | 높이(H) | 개소 |\n|---|---|---|---|---|---|---|---|\n| 지하3층 | FSS1 | 장비반입구(발전기실) | A | SS | 2,750 | 5,050 | 1EA |\n|  | FSS2 | 주차경사로 | A | SS | 6,400 | 2,950 | 1EA |\n| 지하2층 | FSS3 | 주차경사로 | A | SS | 6,300 | 3,100 | 1EA |\n|  | FSS4 | 방화문 | A | SS | 1,670 | 2,400 | 1EA |\n|  | FSS5 | 방화문 | A | SS | 1,350 | 2,400 | 1EA |\n|  | FSS6 | 홀 | A | SS | 1,150 | 2,400 | 1EA |\n|  | FSS7 | 홀 | A | SS | 2,400 | 2,400 | 1EA |\n| 지하1층 | FSS8 | 복도 | A | SS | 5,950 | 2,700 | 1EA |\n|  | FSS9 | 복도 | A | SS | 600 | 2,700 | 1EA |\n|  | FSS10 | 복도 | A | SS | 1,350 | 2,700 | 1EA |\n|  | FSS11 | 복도 | A | SS | 1,360 | 2,700 | 1EA |\n|  | FSS12 | 복도 | A | SS | 1,160 | 2,700 | 1EA |\n|  | FSS13 | 홀 | A | SS | 500 | 2,700 | 1EA |\n|  | FSS14 | 홀 | A | SS | 6,700 | 2,700 | 1EA |\n| 4층 | FSS15 | 홀 | A | SS | 1,050 | 2,400 | 1EA |\n|  | FSS16 | 복도 | A | SS | 1,320 | 2,400 | 1EA |\n|  | FSS17 | 근린생활시설 | A | SS | 4,150 | 2,400 | 1EA |\n|  | FSS18 | 근린생활시설 | A | SS | 6,550 | 2,400 | 1EA |"
+    },
+    {
+        "Drawing_Type": "Detail_View",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 창호상세도-3 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2123",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/3, A3 : 1/6",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Unknown",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "N/A",
+        "Drawing_Title": "N/A",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "N/A",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "N/A",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "N/A",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 1층 평면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2005",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 층별 LEVEL 기준\n-1층 LEVEL\n- SL±0 = FL±0 = EL+21.00(GL±0)\n2. 옥상 줄눈의 간격은 실시공시 변경될 수 있음.\n3. 옥상 줄눈 틈에 실란드 시공되지 않음.\n4. 지붕의 재료, 형태, 구조는 실시공시 변경될 수 있음.\n5. 지붕봉 난간의 형태와 설치 위치는 안전성과 입면\n디자인을 고려하여 변경 가능함.\n6. 단열재의 종류는 단열성능관계내역 참조.\n7. 도면상 표기된 옥상 및 지하의 무근콘크리트\n두께는 평균 두께를 말하며 본시공시 구배를\n고려하여 두께의 증감이 있을 수 있음.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 3층 평면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2007",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 층별 LEVEL 기준 - 3층 LEVEL - SL±0 = FL±0 = EL+30.10\n2. 옥상 춢료 간격은 실시공시 변경될 수 있음.\n3. 옥상 춢료 몸에 실란드 시공되지 않음.\n4. 지붕의 재료, 형태, 구조는 실시공시 변경될 수 있음.\n5. 지붕층 난간의 형태와 설치 위치는 안전성 과 입면 디자인을 고려하여 변경 가능함.\n6. 단열재의 종류는 단열성능관계내역 참조.\n7. 도면상 표기된 옥상 및 지하의 무근콘크리트 두께는 평균 두께를 말하며 분시공시 구배를 고려하여 두께의 증감이 있을 수 있음.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Commercial",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 2층 평면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2006",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 층별 LEVEL 기준\n- 2층 LEVEL\n- SL±0 = FL±0 = EL+26.00\n2. 옥상 줃눈의 간격 등은 실시공시 변경될 수 있음.\n3. 옥상 줃눈 몸에 실란드 시공되지 않음.\n4. 지붕의 재료, 형태, 구조는 실시공시 변경될 수 있음.\n5. 지붕층 난간의 형태와 설치 위치는 안전성 및 입면 디자인을 고려하여 변경 가능함.\n6. 단열재의 종류는 단열성능관계내역 참조.\n7. 도면상 표기된 옥상 및 지하의 무근콘크리트 두께는 평균 두께를 말하며 본시공시 구배를 고려하여 두께의 증감이 있을 수 있음.",
+        "Table_on_Drawing": "N/A"
+    },
+    {
+        "Drawing_Type": "Floor_Plan",
+        "Purpose_of_Building": "Residential",
+        "Client_Name": "둔촌주공아파트주택 재건축정비사업조합",
+        "Project_Title": "둔촌주공아파트 주택재건축정비사업",
+        "Drawing_Title": "분산상가-1 4층 평면도 (근린생활시설-3)",
+        "Space_Classification": {
+            "Communal": [],
+            "Private": [],
+            "Service": []
+        },
+        "Details": {
+            "Drawing_Number": "A51-2008",
+            "Project_Number": "N/A",
+            "Revision_Number": 0,
+            "Scale": "A1 : 1/100, A3 : 1/200",
+            "Architects": [
+                "Unknown"
+            ]
+        },
+        "Additional_Details": {
+            "Number_of_Units": 0,
+            "Number_of_Stairs": 0,
+            "Number_of_Elevators": 0,
+            "Number_of_Hallways": 0,
+            "Unit_Details": [],
+            "Stairs_Details": [],
+            "Elevator_Details": [],
+            "Hallways": [],
+            "Other_Common_Areas": []
+        },
+        "Notes_on_Drawing": "1. 층별 LEVEL 기준 - 4층 LEVEL - SL±0 = FL±0 = EL+34.20\n2. 옥상 줄눈의 간격 등은 실시공시 변경될 수 있음.\n3. 옥상 줄눈 틈에 실란트 시공되지 않음.\n4. 지붕재의 재료, 형태, 구조는 실시공시 변경될 수 있음.\n5. 지붕통 난간의 형태와 설치 위치는 안전성과 어떤 디자인을 고려하여 변경 가능함.\n6. 단일재의 종류는 단열성능관계내역 참조.\n7. 도면상 표기원 옥상 및 지하의 무근콘크리트 두께는 평균 두께를 말하며 본시공시 구배를 고려하여 두께의 증감이 있을 수 있음.\n8. 제연덕트용 덕트하우스는 현장여건에 따라 구조검토후 크기가 변경 될 수 있음.",
+        "Table_on_Drawing": "N/A"
+    }
+]
