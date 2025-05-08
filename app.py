@@ -52,12 +52,10 @@ from uuid import uuid4
 import logging
 
 # SQLite Database path
+GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+COHERE_API_KEY = st.secrets["COHERE_API_KEY"]
 
-load_dotenv()  # Load environment variables from .env file
-
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-COHERE_API_KEY = os.getenv("COHERE_API_KEY")
 
 # Directory structure (adjust as needed)
 DATA_DIR = "data"
